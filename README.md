@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Achref Ben Brahim</h1>
-<h3 align="center">Frontend and Backend Enthusiast | Leveraging React, Redux, and Node.js for Modern Applications</h3>
+<h3 align="center">Frontend and Backend Enthusiast | Leveraging React, Redux, and Node.js for Modern Web Applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achrefdevtn&label=Profile%20views&color=0e75b6&style=flat" alt="achrefdevtn" /> </p>
+
+- 📝 I regularly write articles on [https://medium.com/@achrefbenbrahim](https://medium.com/@achrefbenbrahim)
+
+- 💬 Ask me about **ReactJS, Redux, NodeJS, ExpressJS, MySQL**
 
 - 📫 How to reach me **achrefbenbrahim5@gmail.com**
 
