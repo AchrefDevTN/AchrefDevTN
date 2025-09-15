@@ -5,15 +5,13 @@
 
 - 📝 I regularly write articles on [https://medium.com/@achrefbenbrahim](https://medium.com/@achrefbenbrahim)
 
-- 💬 Ask me about **ReactJS, Redux, NodeJS, ExpressJS, MySQL**
-
-- 📫 How to reach me **contact@achrefbenbrahim.com**
+- 💬 Ask me about **ReactJS, Redux, NextJS, NodeJS, ExpressJS, TypeScript, MySQL, AWS, and Terraform**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/achref-ben-brahim-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achref-ben-brahim-dev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23241352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23241352" height="30" width="40" /></a>
-<a href="https://fb.com/61565779635892" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="61565779635892" height="30" width="40" /></a>
+<a href="https://fb.com/achrefbenbrahim14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="achrefbenbrahim14" height="30" width="40" /></a>
 <a href="https://instagram.com/achrefbenbrahim14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="achrefbenbrahim14" height="30" width="40" /></a>
 <a href="https://medium.com/@achrefbenbrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@achrefbenbrahim" height="30" width="40" /></a>
 </p>
