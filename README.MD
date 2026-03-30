@@ -15,7 +15,7 @@
 <a href="https://stackoverflow.com/users/23241352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23241352" height="30" width="40" /></a>
 <a href="https://fb.com/achref.ben.brahim.developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="achref.ben.brahim.developer" height="30" width="40" /></a>
 <a href="https://instagram.com/achref.ben.brahim.developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="achref.ben.brahim.developer" height="30" width="40" /></a>
-<a href="https://medium.com/@achref-ben-brahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@achref-ben-brahim" height="30" width="40" /></a>
+<a href="https://achref-ben-brahim.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@achref-ben-brahim" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
